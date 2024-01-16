@@ -1,0 +1,1 @@
+The goal of this project is to take somewhat unstructed text used to train text-generation models, such as the text in the Capybara dataset, and convert it into a question-answer dataset, like OpenOrca. 
